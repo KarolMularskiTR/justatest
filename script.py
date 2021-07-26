@@ -7,3 +7,4 @@ from .script2 import test
 
 
 test()
+print('abs')
